@@ -3,7 +3,6 @@
 **A real-time collaborative whiteboard with live cursors, built-in voice chat and lossless reconnects.**
 Open a room, share a 6-letter code, and think together on an infinite canvas — no sign-up, no install.
 
-> Built for a 24-hour hackathon: Node.js · Express · `ws` · HTML5 Canvas · WebRTC · Tailwind CSS.
 
 ## Features
 
